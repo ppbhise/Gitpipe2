@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gitpipe2", "Gitpipe2\Gitpipe2.csproj", "{8BC45E40-1B93-4616-8A3E-16128595E6C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC45E40-1B93-4616-8A3E-16128595E6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC45E40-1B93-4616-8A3E-16128595E6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC45E40-1B93-4616-8A3E-16128595E6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC45E40-1B93-4616-8A3E-16128595E6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004A8F92-23D1-4F15-A37E-61A1D00AA44E}
+	EndGlobalSection
+EndGlobal
