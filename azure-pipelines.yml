@@ -25,11 +25,11 @@ steps:
 
 - task: SonarCloudPrepare@1
   inputs:
-    SonarCloud: 'Sonarcloud'
+    SonarCloud: 'SonarCloud'
     organization: 'dek-organization'
     scannerMode: 'MSBuild'
     projectKey: 'AgileProject'
-    projectName: 'AgileProject' 
+    projectName: 'AgileProject'
     
 - task: VSBuild@1
   inputs:
